@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="enterMassBox_layout_height">46dp</dimen>
+    <dimen name="heightLid_layout_marginTop">84dp</dimen>
+    <dimen name="count_button_layout_marginTop">56dp</dimen>
+    <dimen name="massLid_layout_marginTop">64dp</dimen>
+</resources>

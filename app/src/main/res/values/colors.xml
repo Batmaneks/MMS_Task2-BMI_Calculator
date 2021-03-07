@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="this_nice_green_that_I_like">#0E8176</color>
+    <color name="Very_severely_underweight">#022F7A</color>
+    <color name="Severely_underweight">#02839C</color>
+    <color name="Underweight">#4EFF3C</color>
+    <color name="Normal_healthy_weight">#008C07</color>
+    <color name="Overweight">#FFF72E</color>
+    <color name="Obese_Class_I_Moderately_obese">#FF6700</color>
+    <color name="Obese_Class_II_Severely_obese">#FF0000</color>
+    <color name="Obese_Class_III_Very_Severely_obese">#670000</color>
+</resources>

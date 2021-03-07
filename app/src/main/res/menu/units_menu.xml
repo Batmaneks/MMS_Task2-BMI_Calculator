@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/units_menu"
+        android:title="@string/units"
+        app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/subItemMetric"
+                android:title="@string/metric"
+                app:showAsAction="never"/>
+            <item android:id="@+id/subItemImperial"
+                android:title="@string/imperial"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+
+</menu>

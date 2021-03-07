@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MMA_Task2</string>
+    <string name="Mass_window_description_kg">Mass [kg] </string>
+    <string name="Height_window_description_cm">Height [cm] </string>
+    <string name="Mass_window_description_lb">Mass [lb] </string>
+    <string name="Height_window_description_in">Height [in] </string>
+    <string name="count_button_text"> COUNT </string>
+    <string name="enterMass_default_val"> Enter your body mass [kg] </string>
+    <string name="enterHeight_default_val"> Enter your height [cm] </string>
+    <string name="enterMass_default_val_lb"> Enter your body mass [lb] </string>
+    <string name="enterHeight_default_val_in"> Enter your height [in] </string>
+    <string name="result_Title_text_when_empty"> </string>
+    <string name="result_title_when_ready">Your BMI is(Click on the number to see the details.):</string>
+    <string name="bmi_ig_content_descb">chart presenting the BMI sale</string>
+    <string name="activity2_titleTextView_text">Your BMI:</string>
+    <string name="bck_button">Back</string>
+    <string name="metric_imperial_switch_text">Imperial Units</string>
+    <string name="text_when_unit_switch_on">Imperial Units</string>
+    <string name="text_when_unit_switch_off">Metric Units</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="units">Units</string>
+    <string name="about_the_author">About the author:</string>
+    <string name="this_is_an_img_of_me_while_programming_this_app">This is an img of me while programming this app :)</string>
+    <string name="author_description"><![CDATA[Hi, my name is Staszek. I have very little experience with the mobile dev( which is probably visible here). I like learning new languages, reading books & playing with my dogs. My contact info: 229852@student.pwr.edu.pl      See you at the UNI! :)]]></string>
+    <string name="about_the_author_button_text">About the author</string>
+    <string name="about_your_result">About your result:</string>
+    <string name="Very_severely_underweight">Very severely underweight</string>
+    <string name="Severely_underweight">Severely underweight</string>
+    <string name="Underweight">Severely underweight	</string>
+    <string name="Normal_healthy_weight">Normal (healthy weight)</string>
+    <string name="Overweight">Overweight</string>
+    <string name="Obese_Class_I_Moderately_obese">Obese Class I (Moderately obese)</string>
+    <string name="Obese_Class_II_Severely_obese">Obese Class II (Severely obese)</string>
+    <string name="Obese_Class_III_Very_Severely_obese">Obese Class III (Very severely obese)</string>
+</resources>
